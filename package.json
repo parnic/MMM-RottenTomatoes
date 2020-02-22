@@ -1,0 +1,12 @@
+{
+    "name": "magic-mirror-module-rottentomatoes",
+    "version": "1.0.0",
+    "description": "Show data from RottenTomatoes.com",
+    "main": "MMM-RottenTomatoes.js",
+    "author": "Adam Moses",
+    "repository": "https://github.com/parnic/MMM-RottenTomatoes.git",
+    "license": "MIT",
+    "dependencies": {
+        "rt-scraper": "github:parnic/NPMJS-rt-scraper"
+    }
+}
