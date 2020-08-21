@@ -13,6 +13,7 @@
  */
 
 // call in the required classes
+const NodeHelper = require('node_helper');
 var RTS = require("rt-scraper");
 
 // the main module helper create
